@@ -18,6 +18,8 @@ This repository is a portable, sanitized context layer for Wang Ziyi. It is not 
 - Never add credentials, authentication states, private keys, cookies, tokens, contracts, identity documents, confidential employer information, or private third-party data.
 - Do not upload or publish repository contents without Wang Ziyi's explicit authorization.
 - Do not delete historical material merely to make the repository cleaner.
+- Put active topics, research, drafts and project work under `10-工作台/`; do not create a second repository for ordinary personal work.
+- For self-media work, read `10-工作台/自媒体/00-内容系统总控.md` first and add new topic candidates to `10-工作台/自媒体/03-内容工作流/选材池.md`.
 
 ## Writing style
 
